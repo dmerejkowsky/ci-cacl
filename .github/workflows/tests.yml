@@ -19,7 +19,7 @@ jobs:
 
     - name: Prepare project for development
       run: |
-        python -m pip install pytest
+        python -m pip install pyyyyyyyytest
 
     - name: Run tests
       run: pytest
